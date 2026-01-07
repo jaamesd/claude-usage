@@ -1618,5 +1618,3 @@ if __name__ == "__main__":
         elif W >= 70:
             footer += " Try: hourly|daily|weekly|monthly"
     print(f"{footer}{RESET}")
-# Documentation updated
-# Your formatter integrated
